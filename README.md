@@ -1,10 +1,10 @@
 # Pokemon-ETL-Project
 Data Sources:
 
-  Pokemon List: https://www.kaggle.com/abcsds/pokemon
-  Types Table: https://github.com/veekun/pokedex/blob/master/pokedex/data/csv/types.csv
-  Moves List: https://github.com/veekun/pokedex/blob/master/pokedex/data/csv/moves.csv
-  Type Matrix: https://www.kaggle.com/manuelalb/pokemon-type-table/downloads/pokemon-type-table.zip/1
+  **Pokemon List: https://www.kaggle.com/abcsds/pokemon
+  **Types Table: https://github.com/veekun/pokedex/blob/master/pokedex/data/csv/types.csv
+  **Moves List: https://github.com/veekun/pokedex/blob/master/pokedex/data/csv/moves.csv
+  **Type Matrix: https://www.kaggle.com/manuelalb/pokemon-type-table/downloads/pokemon-type-table.zip/1
 
 **Scope: Get pokemon information regarding pokemon type and moves types to be able to return the damage multiplier.
 
