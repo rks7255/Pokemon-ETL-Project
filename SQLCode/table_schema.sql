@@ -1,0 +1,16 @@
+﻿CREATE TABLE Pokemon_Name (
+  PID INT PRIMARY KEY,
+  Pokemon_Name TEXT,
+  Type TEXT
+);
+
+CREATE TABLE Types (
+  TID INT PRIMARY KEY,
+  Type TEXT
+);
+
+CREATE TABLE Moves (
+  MID INT PRIMARY KEY,
+  Moves TEXT,
+  TID INT 
+);
