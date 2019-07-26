@@ -2,8 +2,11 @@
 Data Sources:
 
   **Pokemon List: https://www.kaggle.com/abcsds/pokemon
+  
   **Types Table: https://github.com/veekun/pokedex/blob/master/pokedex/data/csv/types.csv
+  
   **Moves List: https://github.com/veekun/pokedex/blob/master/pokedex/data/csv/moves.csv
+
 
 **Scope: Get pokemon information regarding pokemon, pokemon type and moves types.
 
